@@ -14,4 +14,5 @@ Senior Software Engineer at [TradeGecko](https://www.tradegecko.com). [PhRUG](ht
 - LinkedIn: https://www.linkedin.com/in/radamanthus/
 - Google: radamanthus
 - Twitter: @radamanthus
+- [Resume](/RadamanthusBatnagCV.pdf)
 
