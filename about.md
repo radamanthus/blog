@@ -14,15 +14,13 @@ I used to be pretty active in the Manila tech scene, and I was the co-organizer 
 
 Most of the things I've worked on are corporate projects, but here are some things I've built recently with my personal time:
 
-[MovieEffects](https://github.com/radamanthus/MovieEffects)
-This is a project I've built (still currently building) to practice my UI and frontend skills. It's built with Semantic UI, React, and Rails 5.
+- [MovieEffects](https://github.com/radamanthus/MovieEffects): Professionally, I'm a backend programmer. I need some place to practice my frontend and React skills, so I built this. It's built with Semantic UI, React, and Rails 5.
 
-[EngineNiRad](https://github.com/skribgit/EngineNiRad)
-Between working for Engine Yard and TradeGecko, I did some AWS Infrastructure consulting. This is an open-source collection of the Terraform scripts I used for those consulting projects.
+- [EngineNiRad](https://github.com/skribgit/EngineNiRad): This is a collection of open-source Terraform scripts I developed while doing AWS Infrastructure consulting.
 
-[Siphon](https://github.com/radamanthus/siphon-rails)
-PaperTrail (the paid service, not the Ruby gem) can get pretty expensive. I'm currently exploring how to replace PaperTrail with AWS Kinesis, S3 and Elasticsearch. Siphon is a Rails application I built to ingest logs from Heroku Logplex to an AWS Kinesis stream.
+- [Siphon](https://github.com/radamanthus/siphon-rails): (Exploratory project). PaperTrail (the paid service, not the Ruby gem) can get pretty expensive. I'm currently exploring how to replace PaperTrail with AWS Kinesis, S3 and Elasticsearch. Siphon is a Rails application I built to ingest logs from Heroku Logplex to an AWS Kinesis stream.
 
+You can reach me as _radamanthus_ in most online services I'm in:
 - Github: https://github.com/radamanthus/
 - LinkedIn: https://www.linkedin.com/in/radamanthus/
 - Google: radamanthus
